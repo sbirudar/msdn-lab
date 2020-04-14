@@ -1,1 +1,2 @@
 Commiting this sample text will not trigger the pipeline, since we have provided the wrong flder name,devvfolder instead of devfolder
+this commit will trigger the dev pipeline as we had made the changes
