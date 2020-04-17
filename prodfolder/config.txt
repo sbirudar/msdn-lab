@@ -1,4 +1,4 @@
 DataBricks Configuration Details:
-clusterID-0313-092433-real448
-workspaceURL-https://southcentralus.azuredatabricks.net/
-tokenAccess-dapi2559693e03a0ee4e4de61a5c101fa179
+clusterID#0313-092433-real448
+workspaceURL#https://southcentralus.azuredatabricks.net/
+tokenAccess#dapi2559693e03a0ee4e4de61a5c101fa179
