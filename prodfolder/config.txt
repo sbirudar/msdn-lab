@@ -1,4 +1,4 @@
-DataBricks Configuration Details:
+DataBricks Configuration:
 clusterID#0313-092433-real448
 workspaceURL#https://southcentralus.azuredatabricks.net/
 keyVault#keyvault-hppbh
